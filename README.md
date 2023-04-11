@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Data science enthusiast and student constantly learning new skills in machine learning, statistical analysis, and data visualization. Passionate about using data to uncover insights and solve real-world problems. Proficient in Python, SQL, and Git. Currently pursuing a degree in data science and eager to contribute to open source projects and collaborate with fellow data enthusiasts.
+A curious mind with a passion for data-driven decision making. Currently learning Python, SQL, and machine learning algorithms to build predictive models and gain insights from data. Excited to contribute to the data science community and collaborate on projects.Actively seeking internship opportunities to gain hands-on experience in the field
